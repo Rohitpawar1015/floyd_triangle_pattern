@@ -1,0 +1,1 @@
+# floyd_triangle_pattern
